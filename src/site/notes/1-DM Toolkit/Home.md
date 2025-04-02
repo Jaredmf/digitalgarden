@@ -48,9 +48,9 @@ where (Status = "Active")
 
 | Location Name                                                          | type       | Government | Community-Size | size       | population |
 | ---------------------------------------------------------------------- | ---------- | ---------- | -------------- | ---------- | ---------- |
-| [[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City\|Lampoteuo City]] | Settlement | Autocracy  | Outpost        | Small city | 0          |
 | [[2-World/Lampoteuo/Creepers Cave/Creepers Cave\|Creepers Cave]]    | Settlement | Autocracy  | Outpost        | Small city | 0          |
 | [[2-World/Lampoteuo/Lampoteuo\|Lampoteuo]]                          | Settlement | Autocracy  | Outpost        | Small city | 0          |
+| [[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City\|Lampoteuo City]] | Settlement | Autocracy  | Outpost        | Small city | 0          |
 | [[2-World/Lampoteuo/The Wound/The Wound\|The Wound]]                | Settlement | Autocracy  | Outpost        | Small city | 0          |
 
 { .block-language-dataview}
@@ -59,6 +59,7 @@ where (Status = "Active")
 # Recently Modified Notes
 | Note                                                                                      | Last modified            |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
+| [[Home Page\| / Home Page]]                                                            | 2:50 PM - April 02, 2025 |
 | [[3-Mechanics/Where To Get Mechanics\|3-Mechanics / Where To Get Mechanics]]           | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Guilds and Groups/Magicians\|3-Mechanics/Guilds and Groups / Magicians]] | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Guilds and Groups/Harpers\|3-Mechanics/Guilds and Groups / Harpers]]     | 2:42 PM - April 02, 2025 |
@@ -68,7 +69,6 @@ where (Status = "Active")
 | [[3-Mechanics/NPCs/Jasmine\|3-Mechanics/NPCs / Jasmine]]                               | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/NPCs/Fred the 2nd\|3-Mechanics/NPCs / Fred the 2nd]]                     | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/CLI/CLI\|3-Mechanics/CLI / CLI]]                                         | 2:42 PM - April 02, 2025 |
-| [[1-DM Toolkit/Travel Calculator\|1-DM Toolkit / Travel Calculator]]                   | 2:41 PM - April 02, 2025 |
 
 { .block-language-dataview}
 
