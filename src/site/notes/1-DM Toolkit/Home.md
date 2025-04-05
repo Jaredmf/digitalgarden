@@ -38,8 +38,8 @@ where (Status = "Active")
 | NPC Name                                           | Gender | Race                       | Age | Location                                      | AssociatedGroup |
 | -------------------------------------------------- | ------ | -------------------------- | --- | --------------------------------------------- | --------------- |
 | [[3-Mechanics/NPCs/Wilma\|Wilma]]               | Male   | <ul><li>Half-elf</li></ul> | 1   | <ul><li><ul><li>Lampoteuo</li></ul></li></ul> | Harpers         |
-| [[3-Mechanics/NPCs/Jasmine\|Jasmine]]           | Male   | \-                         | 1   | \-                                            | \-              |
 | [[3-Mechanics/NPCs/Fred the 2nd\|Fred the 2nd]] | Male   | \-                         | 1   | \-                                            | \-              |
+| [[3-Mechanics/NPCs/Jasmine\|Jasmine]]           | Male   | \-                         | 1   | \-                                            | \-              |
 
 { .block-language-dataview}
 
@@ -50,8 +50,8 @@ where (Status = "Active")
 | ---------------------------------------------------------------------- | ---------- | ---------- | -------------- | ---------- | ---------- |
 | [[2-World/Lampoteuo/Creepers Cave/Creepers Cave\|Creepers Cave]]    | Settlement | Autocracy  | Outpost        | Small city | 0          |
 | [[2-World/Lampoteuo/Lampoteuo\|Lampoteuo]]                          | Settlement | Autocracy  | Outpost        | Small city | 0          |
-| [[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City\|Lampoteuo City]] | Settlement | Autocracy  | Outpost        | Small city | 0          |
 | [[2-World/Lampoteuo/The Wound/The Wound\|The Wound]]                | Settlement | Autocracy  | Outpost        | Small city | 0          |
+| [[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City\|Lampoteuo City]] | Settlement | Autocracy  | Outpost        | Small city | 0          |
 
 { .block-language-dataview}
 `BUTTON[newLocation]`  `BUTTON[newGroup]` `BUTTON[button_quest]`  `BUTTON[newMagicItem]` 
@@ -59,16 +59,16 @@ where (Status = "Active")
 # Recently Modified Notes
 | Note                                                                                      | Last modified            |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
+| [[0-Scratch Notes/Add Random Notes Here\|0-Scratch Notes / Add Random Notes Here]]     | 9:44 PM - April 04, 2025 |
 | [[3-Mechanics/NPCs/Wilma\|3-Mechanics/NPCs / Wilma]]                                   | 2:56 PM - April 02, 2025 |
 | [[Home Page\| / Home Page]]                                                            | 2:56 PM - April 02, 2025 |
+| [[3-Mechanics/CLI/CLI\|3-Mechanics/CLI / CLI]]                                         | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Where To Get Mechanics\|3-Mechanics / Where To Get Mechanics]]           | 2:42 PM - April 02, 2025 |
-| [[3-Mechanics/Guilds and Groups/Magicians\|3-Mechanics/Guilds and Groups / Magicians]] | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Guilds and Groups/Harpers\|3-Mechanics/Guilds and Groups / Harpers]]     | 2:42 PM - April 02, 2025 |
+| [[3-Mechanics/Guilds and Groups/Magicians\|3-Mechanics/Guilds and Groups / Magicians]] | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Items/DefaultName\|3-Mechanics/Items / DefaultName]]                     | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/Items/Broken Stick\|3-Mechanics/Items / Broken Stick]]                   | 2:42 PM - April 02, 2025 |
-| [[3-Mechanics/NPCs/Jasmine\|3-Mechanics/NPCs / Jasmine]]                               | 2:42 PM - April 02, 2025 |
 | [[3-Mechanics/NPCs/Fred the 2nd\|3-Mechanics/NPCs / Fred the 2nd]]                     | 2:42 PM - April 02, 2025 |
-| [[3-Mechanics/CLI/CLI\|3-Mechanics/CLI / CLI]]                                         | 2:42 PM - April 02, 2025 |
 
 { .block-language-dataview}
 
